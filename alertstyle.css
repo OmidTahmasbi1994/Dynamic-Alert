@@ -1,0 +1,21 @@
+#errorSpan
+{
+    display: none;
+    width:400px;
+    height: 100px;
+    position: fixed;
+    background-color: red;
+    font-size: 30px;
+    color: snow;
+    text-align: center;
+    padding-top: 45px;
+    cursor: default;
+    border-radius: 4px 4px 4px 4px;
+}
+
+#download
+{
+    cursor: pointer;
+    color: blue;
+    font-size: 30px;
+}
